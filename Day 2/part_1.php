@@ -7,6 +7,7 @@
 	- i ended up trying both for loops and foreach loops thinking that i goofed something
 	- the $min number only works because I could scan each line to see what was a "safe" max
 	- nontless, ty for explode()
+	- ah also try number one failed because i only checked for sums moving forward instead of in the whole array. as in, taking the first example case/line 1, i compared 5 to everything else, but only compared 1 to 9 & 5, instead of 5, 9, 5
 
 /*//////////////////////////////////////////////
 
