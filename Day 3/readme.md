@@ -1,6 +1,6 @@
-Day 1 solution as .md, then implemented in .php
+Day 1 solution as .md, but unsure how to implement.
 
-Day 2 solution in progress
+Day 2 solution in progress. wahh I have to draw the spiral.
 
 ## --- Day 3: Spiral Memory ---
 
