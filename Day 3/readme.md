@@ -1,7 +1,8 @@
 Day 1 solution as .md, then implemented in .php
+
 Day 2 solution in progress
 
---- Day 3: Spiral Memory ---
+## --- Day 3: Spiral Memory ---
 
 You come across an experimental new kind of memory stored on an infinite two-dimensional grid.
 
