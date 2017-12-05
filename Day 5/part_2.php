@@ -4,6 +4,7 @@
 	PROCESS NOTES
 
 	- the quickest part 2, i think, at least. it was just an if statement :o
+	- the question felt kind of ambiguous though. it says "if the offset was three or more", which led me to understand that is "if the current offset", not "if the offset you just came across", so i actually used my code to verify that i was interpreting the problem correctly, ha.
 
 /*//////////////////////////////////////////////
 
