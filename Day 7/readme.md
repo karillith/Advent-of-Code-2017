@@ -1,4 +1,4 @@
-#--- Day 7: Recursive Circus ---
+# --- Day 7: Recursive Circus ---
 
 Wandering further through the circuits of the computer, you come upon a tower of programs that have gotten themselves into a bit of trouble. A recursive algorithm has gotten out of hand, and now they're balanced precariously in a large tower.
 
@@ -8,6 +8,7 @@ You offer to help, but first you need to understand the structure of these tower
 
 For example, if your list is the following:
 
+```
 pbga (66)
 xhth (57)
 ebii (61)
@@ -21,8 +22,10 @@ jptl (61)
 ugml (68) -> gyxo, ebii, jptl
 gyxo (61)
 cntj (57)
+```
 ...then you would be able to recreate the structure of the towers that looks like this:
 
+```
                 gyxo
               /     
          ugml - ebii
@@ -40,13 +43,14 @@ tknk --- padx - havc
          fwft - cntj
               \     
                 xhth
+```
 In this example, tknk is at the bottom of the tower (the bottom program), and is holding up ugml, padx, and fwft. Those programs are, in turn, holding up other programs; in this example, none of those programs are holding up any other programs, and are all the tops of their own towers. (The actual tower balancing in front of you is much larger.)
 
 Before you're ready to help them, you need to make sure your information is correct. What is the name of the bottom program?
 
 Your puzzle answer was gynfwly.
 
---- Part Two ---
+# --- Part Two ---
 
 The programs explain the situation: they can't get down. Rather, they could get down, if they weren't expending all of their energy trying to keep the tower balanced. Apparently, one program has the wrong weight, and until it's fixed, they're stuck here.
 
